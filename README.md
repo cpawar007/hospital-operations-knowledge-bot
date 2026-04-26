@@ -49,18 +49,3 @@ A smart AI-powered hospital assistant that helps users interact with hospital se
 4. LLM generates response  
 5. Optional: ML model predicts disease from symptoms  
 6. Prediction enhances assistant response (if applicable)
-
----
-
-## 🩺 Disease Prediction Module
-
-If a user is unsure about their condition, they can:
-- Enter symptoms in the sidebar
-- Get a predicted disease
-- Use it as a starting point for hospital guidance
-
-This feature improves user experience by adding a **decision-support layer**, not replacing medical expertise.
-
----
-
-## 📦 Project Structure
