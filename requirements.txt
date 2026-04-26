@@ -1,0 +1,9 @@
+streamlit
+numpy
+joblib
+python-dotenv
+langchain
+langchain-community
+faiss-cpu
+scikit-learn
+sentence-transformers
