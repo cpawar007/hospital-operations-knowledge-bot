@@ -1,0 +1,245 @@
+HEALING TOUCH MULTISPECIALTY HOSPITAL
+
+ABOUT:
+Healing Touch Multispecialty Hospital is a comprehensive healthcare facility offering outpatient (OPD), inpatient (IPD), emergency, surgical, and diagnostic services with structured operational workflows.
+
+----------------------------------------
+
+HOSPITAL WORKING HOURS:
+
+OPD:
+- Monday to Friday: 9:00 AM to 5:00 PM
+- Saturday: 9:00 AM to 2:00 PM
+- Sunday: Closed
+
+Emergency:
+- Available 24/7
+
+----------------------------------------
+
+CORE DEPARTMENTS:
+
+- General Medicine
+- Cardiology
+- Orthopedics
+- Neurology
+- ENT (Ear, Nose, Throat)
+- Pediatrics
+- Dermatology
+- Gastroenterology
+- Pulmonology
+
+----------------------------------------
+
+Doctors and their availability
+
+GENERAL MEDICINE (Primary Care & Initial Diagnosis):
+- Dr. Amit Sharma – General Physician – Mon–Fri (9 AM – 2 PM)
+- Dr. Neha Verma – General Physician – Mon–Sat (11 AM – 4 PM)
+- Dr. Rahul Khanna – Internal Medicine Specialist – Mon–Fri (2 PM – 6 PM)
+- Dr. Pooja Iyer – General Physician – Tue–Sun (10 AM – 3 PM)
+
+----------------------------------------
+
+CARDIOLOGY (Heart & Blood Pressure):
+- Dr. Suresh Rao – Cardiologist – Tue, Thu (10 AM – 2 PM)
+- Dr. Arvind Menon – Cardiologist – Mon, Wed, Fri (1 PM – 5 PM)
+- Dr. Kavya Nair – Cardiology Consultant – Sat (10 AM – 2 PM)
+
+----------------------------------------
+
+ORTHOPEDICS (Bones, Joints, Injuries):
+- Dr. Vivek Singh – Orthopedic Surgeon – Mon–Sat (12 PM – 5 PM)
+- Dr. Rohit Bansal – Orthopedic Specialist – Mon–Fri (9 AM – 1 PM)
+- Dr. Ankit Patel – Joint Replacement Surgeon – Tue, Thu, Sat (2 PM – 6 PM)
+
+----------------------------------------
+
+NEUROLOGY (Brain & Nervous System):
+- Dr. Anjali Gupta – Neurologist – Wed, Sat (10 AM – 1 PM)
+- Dr. Rakesh Tiwari – Neurologist – Mon, Thu (2 PM – 5 PM)
+- Dr. Sneha Kulkarni – Neuro Specialist – Tue, Fri (11 AM – 3 PM)
+
+----------------------------------------
+
+ENT (Ear, Nose, Throat):
+- Dr. Raj Mehta – ENT Specialist – Mon, Wed, Fri (10 AM – 3 PM)
+- Dr. Kunal Arora – ENT Surgeon – Tue, Thu (12 PM – 4 PM)
+- Dr. Simran Kaur – ENT Consultant – Sat (10 AM – 2 PM)
+
+----------------------------------------
+
+PEDIATRICS (Child Care & Vaccination):
+- Dr. Kavita Jain – Pediatrician – Mon–Fri (9 AM – 1 PM)
+- Dr. Ritu Sharma – Child Specialist – Mon, Wed, Fri (2 PM – 5 PM)
+- Dr. Aman Verma – Pediatric Consultant – Tue, Thu, Sat (10 AM – 2 PM)
+
+----------------------------------------
+
+DERMATOLOGY (Skin, Hair, Allergies):
+- Dr. Rohan Kapoor – Dermatologist – Tue, Thu, Sat (11 AM – 3 PM)
+- Dr. Meera Joshi – Skin Specialist – Mon, Wed (1 PM – 5 PM)
+- Dr. Aditya Malhotra – Dermatology Consultant – Fri (10 AM – 2 PM)
+
+----------------------------------------
+
+PULMONOLOGY (Lungs & Breathing Issues):
+- Dr. Nitin Deshmukh – Pulmonologist – Mon, Wed, Fri (10 AM – 2 PM)
+- Dr. Farah Khan – Chest Specialist – Tue, Thu (1 PM – 5 PM)
+- Dr. Imran Sheikh – Respiratory Consultant – Sat (10 AM – 1 PM)
+
+----------------------------------------
+
+GASTROENTEROLOGY (Digestive System):
+- Dr. Sanjay Gupta – Gastroenterologist – Mon, Thu (11 AM – 3 PM)
+- Dr. Alok Mishra – Digestive Specialist – Tue, Fri (2 PM – 6 PM)
+- Dr. Neelam Reddy – GI Consultant – Sat (10 AM – 2 PM)
+
+----------------------------------------
+
+EMERGENCY DEPARTMENT (24/7 Rotation):
+- Dr. Vikram Singh – Emergency Physician – Morning Shift
+- Dr. Ayesha Khan – Emergency Physician – Evening Shift
+- Dr. Deepak Yadav – Emergency Physician – Night Shift
+
+----------------------------------------
+
+HOSPITAL OPERATIONS (DETAILED WORKFLOWS)
+
+1. OPD CONSULTATION PROCESS:
+- Patient arrives at reception
+- Registration is completed
+- Token number is generated
+- Patient waits in OPD area
+- Doctor consultation happens
+- Prescription is given
+- Patient proceeds to pharmacy or diagnostics if required
+
+----------------------------------------
+
+2. APPOINTMENT BOOKING PROCESS:
+- Appointment can be booked via:
+  - Reception
+  - Phone call
+  - Email
+- Patient selects doctor and time slot
+- Appointment is confirmed based on availability
+- Booking ID is generated
+- Patient must report 15 minutes before time
+
+----------------------------------------
+
+3. EMERGENCY HANDLING PROCESS:
+- Patient is brought to emergency ward
+- Immediate triage is performed
+- Vital signs are checked
+- Emergency doctor provides initial treatment
+- If critical → shifted to ICU
+- If stable → moved to appropriate department
+
+----------------------------------------
+
+4. ADMISSION PROCESS (IPD):
+- Doctor recommends admission
+- Patient registration is verified
+- Admission form is filled
+- Room type is selected (General / Private / ICU)
+- Bed is allocated
+- Nursing staff initiates monitoring
+
+----------------------------------------
+
+5. DISCHARGE PROCESS:
+- Doctor approves discharge
+- Final reports are prepared
+- Billing department generates invoice
+- Payment is completed
+- Discharge summary is handed to patient
+
+----------------------------------------
+
+6. SURGERY PROCESS:
+- Doctor evaluates need for surgery
+- Pre-operative tests are conducted
+- Patient consent is taken
+- Operation theatre is scheduled
+- Surgery is performed
+- Post-operative monitoring in recovery room
+- Shift to ward or ICU
+
+----------------------------------------
+
+7. ICU MANAGEMENT PROCESS:
+- Continuous monitoring of vital signs
+- Specialized nursing care
+- Restricted visitor access
+- Regular doctor rounds
+- Emergency response readiness
+
+----------------------------------------
+
+8. DIAGNOSTIC PROCESS:
+- Doctor prescribes tests
+- Patient visits lab/radiology
+- Sample collection or scan performed
+- Reports generated
+- Reports shared with doctor
+
+----------------------------------------
+
+9. PHARMACY PROCESS:
+- Prescription is submitted
+- Medicines are verified
+- Billing is generated
+- Medicines are dispensed
+
+----------------------------------------
+
+10. BILLING PROCESS:
+- All services are recorded
+- Final bill is generated
+- Insurance (if applicable) is processed
+- Payment is completed at billing counter
+
+----------------------------------------
+
+COMMON CONDITIONS → DEPARTMENT MAPPING:
+
+- Fever, infection → General Medicine
+- Chest pain → Cardiology
+- Bone injury → Orthopedics
+- Headache, seizures → Neurology
+- ENT issues → ENT
+- Child care → Pediatrics
+- Skin issues → Dermatology
+- Breathing issues → Pulmonology
+
+----------------------------------------
+
+FACILITIES:
+
+- ICU (Intensive Care Unit)
+- Operation Theatre (OT)
+- Diagnostic Lab
+- Radiology (X-ray, CT Scan, MRI)
+- Pharmacy
+- Ambulance Service
+- Emergency Ward
+
+----------------------------------------
+
+CONTACT:
+
+Phone: +91-9876543210
+Email: support@healingtouchhospital.com
+Address: 45 Wellness Avenue, Bhopal, India
+
+----------------------------------------
+
+IMPORTANT:
+
+- All hospital processes follow standard medical protocols
+- Patients must follow doctor instructions strictly
+- Emergency cases are prioritized over scheduled appointments
+
+END OF DOCUMENT

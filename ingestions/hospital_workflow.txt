@@ -1,0 +1,158 @@
+----------------------------------------
+HOSPITAL INTERNAL WORKFLOWS
+----------------------------------------
+
+This document explains how different hospital operations function internally, including ICU, surgery, diagnostics, pharmacy, and patient handling workflows.
+
+----------------------------------------
+1. OUTPATIENT WORKFLOW (OPD)
+----------------------------------------
+- Patient visits hospital
+- Registers at reception
+- Gets consultation with doctor
+- Doctor may:
+  - Prescribe medication
+  - Recommend tests
+  - Suggest admission
+
+----------------------------------------
+2. INPATIENT WORKFLOW (IPD)
+----------------------------------------
+- Patient is admitted
+- Bed/room allocated
+- Daily monitoring by nurses
+- Doctor visits regularly
+- Treatment continues until recovery
+- Discharge process initiated after stability
+
+----------------------------------------
+3. ICU WORKFLOW
+----------------------------------------
+ICU is for critically ill patients.
+
+Process:
+- Patient shifted to ICU immediately if critical
+- Connected to monitoring systems:
+  - Heart rate monitor
+  - Oxygen levels
+  - Blood pressure
+- Life-support may include:
+  - Ventilator
+  - IV medications
+- Continuous observation (24/7)
+- Limited visitor access
+
+----------------------------------------
+4. SURGERY WORKFLOW
+----------------------------------------
+STEP 1: PRE-SURGERY
+- Doctor recommends surgery
+- Patient evaluation and tests
+- Consent form signed
+- Operation scheduled
+
+STEP 2: DURING SURGERY
+- Patient moved to Operation Theatre (OT)
+- Anesthesia administered
+- Surgery performed by surgeon
+
+STEP 3: POST-SURGERY
+- Patient shifted to recovery room
+- Monitoring for complications
+- Then moved to ward or ICU
+
+----------------------------------------
+5. DIAGNOSTIC WORKFLOW
+----------------------------------------
+- Doctor prescribes test
+- Patient goes to lab/radiology
+- Tests include:
+  - Blood tests
+  - X-ray
+  - CT scan
+  - MRI
+- Reports generated
+- Results sent to doctor for review
+
+----------------------------------------
+6. PHARMACY WORKFLOW
+----------------------------------------
+- Doctor prescribes medicines
+- Patient visits hospital pharmacy
+- Pharmacist verifies prescription
+- Medicines dispensed
+- Usage instructions provided
+
+----------------------------------------
+7. EMERGENCY WORKFLOW
+----------------------------------------
+- Patient arrives without appointment
+- Immediate triage (priority check)
+- Stabilization begins
+- Doctor takes quick decision:
+  - Treat and discharge
+  - Admit patient
+  - Shift to ICU
+
+----------------------------------------
+8. BILLING WORKFLOW
+----------------------------------------
+- Charges added for:
+  - Consultation
+  - Room
+  - Tests
+  - Medicines
+  - Procedures
+- Bill updated continuously
+- Final bill generated at discharge
+
+----------------------------------------
+9. FOLLOW-UP WORKFLOW
+----------------------------------------
+- Doctor recommends revisit
+- Patient books appointment
+- Carries reports and prescriptions
+- Further treatment planned
+
+----------------------------------------
+10. INTER-DEPARTMENT FLOW
+----------------------------------------
+Patients may move between departments:
+
+- OPD → Diagnostics → OPD
+- OPD → Admission → Ward
+- Ward → ICU (if condition worsens)
+- ICU → Ward (if improves)
+- Ward → Discharge
+
+----------------------------------------
+IMPORTANT RULES
+----------------------------------------
+- Doctor decision drives all workflows
+- Critical cases are prioritized
+- ICU is only for severe conditions
+- Tests must be reviewed before treatment changes
+- Billing is updated at every stage
+
+----------------------------------------
+BOT RESPONSE LOGIC
+----------------------------------------
+If user asks:
+
+- "What happens after doctor visit?"
+→ Explain OPD → diagnostics/admission
+
+- "What happens in ICU?"
+→ Explain ICU workflow
+
+- "How surgery works?"
+→ Explain 3-step surgery flow
+
+- "How tests are done?"
+→ Explain diagnostic workflow
+
+- "What happens after tests?"
+→ Reports → doctor review → treatment
+
+- "How hospital works internally?"
+→ Give combined workflow summary

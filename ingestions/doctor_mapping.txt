@@ -1,0 +1,110 @@
+HEALING TOUCH MULTISPECIALTY HOSPITAL - DISEASE TO DEPARTMENT MAPPING
+
+----------------------------------------
+
+ENDOCRINE / METABOLIC (Handled by General Medicine):
+
+Hyperthyroidism → General Medicine
+Hypothyroidism → General Medicine
+Type2_Diabetes → General Medicine
+Obesity → General Medicine
+Polycystic_Ovary_SyndROME → General Medicine
+
+----------------------------------------
+
+CARDIOLOGY:
+
+Coronary_Artery_Disease → Cardiology
+Hypertension → Cardiology
+
+----------------------------------------
+
+GASTROENTEROLOGY (Digestive System):
+
+Irritable_Bowel_Syndrome → Gastroenterology
+Gastritis → Gastroenterology
+Peptic_Ulcer_Disease → Gastroenterology
+Inflammatory_Bowel_Disease → Gastroenterology
+Ulcerative_Colitis → Gastroenterology
+Crohn_Disease → Gastroenterology
+Acute_Gastroenteritis → Gastroenterology
+Chronic_Liver_Disease → Gastroenterology
+Cirrhosis → Gastroenterology
+
+----------------------------------------
+
+PULMONOLOGY (Lungs & Breathing):
+
+Asthma → Pulmonology
+COPD → Pulmonology
+Pneumonia → Pulmonology
+Tuberculosis → Pulmonology
+COVID19 → Pulmonology
+Cystic_Fibrosis → Pulmonology
+
+----------------------------------------
+
+GENERAL MEDICINE (Infections & Initial Care):
+
+Flu → General Medicine
+Common_Cold → General Medicine
+Dengue → General Medicine
+Typhoid_Fever → General Medicine
+Urinary_Tract_Infection → General Medicine
+
+----------------------------------------
+
+NEUROLOGY:
+
+Migraine → Neurology
+Epilepsy → Neurology
+Stroke → Neurology
+Multiple_Sclerosis → Neurology
+Amyotrophic_Lateral_Sclerosis → Neurology
+Spinal_Muscular_Atrophy → Neurology
+
+----------------------------------------
+
+ORTHOPEDICS (Bones & Connective Tissue):
+
+Osteoarthritis → Orthopedics
+Osteopetrosis → Orthopedics
+Ehlers_Danlos_Syndrome → Orthopedics
+Marfan_Syndrome → Orthopedics
+
+----------------------------------------
+
+MENTAL HEALTH (Handled under Neurology):
+
+Depression → Neurology
+Generalized_Anxiety_Disorder → Neurology
+
+----------------------------------------
+
+IMMUNOLOGY / MULTI-SYSTEM:
+
+Systemic_Lupus_Erythematosus → General Medicine
+
+----------------------------------------
+
+NEPHROLOGY (Handled by General Medicine):
+
+Chronic_Kidney_Disease → General Medicine
+
+----------------------------------------
+
+RARE / GENETIC DISORDERS:
+
+Gaucher_Disease → General Medicine
+Niemann_Pick_Disease → General Medicine
+Fanconi_Anemia → General Medicine
+
+----------------------------------------
+
+IMPORTANT RULES:
+
+- General Medicine acts as first point of contact for unclear or multi-system diseases.
+- Complex diseases may involve multiple departments.
+- Emergency conditions (stroke, severe breathing issues, cardiac problems) must be prioritized immediately.
+
+END OF DOCUMENT

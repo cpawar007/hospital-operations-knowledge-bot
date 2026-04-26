@@ -1,0 +1,96 @@
+----------------------------------------
+PATIENT DISCHARGE PROCESS
+----------------------------------------
+
+Discharge is the process of releasing a patient from the hospital after treatment is completed or when the patient is stable.
+
+----------------------------------------
+WHEN DISCHARGE HAPPENS
+----------------------------------------
+- Treatment is completed
+- Patient condition is stable
+- Doctor approves discharge
+- Patient requests discharge (with doctor consent)
+
+----------------------------------------
+STEP-BY-STEP DISCHARGE FLOW
+----------------------------------------
+
+STEP 1: DOCTOR APPROVAL
+- Treating doctor evaluates patient condition
+- Confirms patient is fit for discharge
+- Writes discharge summary
+
+STEP 2: DISCHARGE SUMMARY PREPARATION
+- Diagnosis details
+- Treatment given
+- Medications prescribed
+- Follow-up instructions
+- Lifestyle recommendations
+
+STEP 3: FINAL BILLING
+- All services are calculated:
+  - Room charges
+  - Doctor consultation
+  - Tests & diagnostics
+  - Medications
+  - Procedures or surgeries
+- Final bill is generated
+
+STEP 4: PAYMENT CLEARANCE
+- Patient or attendant clears pending amount
+- Insurance processing (if applicable)
+- Receipt is generated
+
+STEP 5: MEDICATION & INSTRUCTIONS
+- Pharmacy provides prescribed medicines
+- Nurse explains:
+  - Medication schedule
+  - Diet instructions
+  - Activity restrictions
+
+STEP 6: DISCHARGE EXECUTION
+- Patient leaves hospital
+- Follow-up visit is scheduled if needed
+
+----------------------------------------
+EMERGENCY DISCHARGE (LAMA / DAMA)
+----------------------------------------
+- LAMA: Leave Against Medical Advice
+- DAMA: Discharge Against Medical Advice
+
+Conditions:
+- Patient chooses to leave early
+- Must sign consent form
+- Hospital is not responsible after discharge
+
+----------------------------------------
+FOLLOW-UP CARE
+----------------------------------------
+- Patient may need revisit
+- Follow-up date is provided
+- Reports should be carried
+
+----------------------------------------
+IMPORTANT RULES
+----------------------------------------
+- Doctor approval is mandatory
+- Bills must be cleared before leaving
+- Discharge summary is compulsory
+- Follow-up instructions must be followed
+
+----------------------------------------
+BOT RESPONSE LOGIC
+----------------------------------------
+If user asks:
+- "How do I get discharged?"
+→ Explain full process
+
+- "Do I need to pay before discharge?"
+→ Yes, billing clearance is required
+
+- "What is discharge summary?"
+→ Explain its contents
+
+- "Can I leave early?"
+→ Explain LAMA/DAMA rules

@@ -1,0 +1,103 @@
+----------------------------------------
+PATIENT ADMISSION PROCESS (IPD)
+----------------------------------------
+
+Admission is required when a patient needs continuous monitoring, advanced treatment, or surgery.
+
+----------------------------------------
+WHEN ADMISSION IS REQUIRED
+----------------------------------------
+- Severe illness or condition
+- Doctor recommendation after consultation
+- Emergency cases
+- Surgery or procedure requirement
+- Observation for unstable patients
+
+----------------------------------------
+ADMISSION TYPES
+----------------------------------------
+1. Planned Admission (Scheduled)
+2. Emergency Admission (Immediate)
+
+----------------------------------------
+STEP-BY-STEP ADMISSION FLOW
+----------------------------------------
+
+STEP 1: DOCTOR EVALUATION
+- Patient is examined by a doctor
+- Doctor decides if admission is required
+- Admission note is created
+
+STEP 2: REGISTRATION
+- Patient details are recorded:
+  - Name
+  - Age
+  - Gender
+  - Contact details
+  - ID proof
+- Unique Patient ID is generated
+
+STEP 3: BED ALLOCATION
+- Room type is selected:
+  - General Ward
+  - Semi-Private Room
+  - Private Room
+  - ICU (for critical patients)
+- Bed is assigned based on availability
+
+STEP 4: INITIAL ASSESSMENT
+- Vital signs recorded:
+  - Blood pressure
+  - Heart rate
+  - Temperature
+- Nurse prepares patient file
+
+STEP 5: PAYMENT / DEPOSIT
+- Initial deposit is required
+- Billing account is created
+- Insurance details (if applicable) are recorded
+
+STEP 6: SHIFT TO ROOM
+- Patient is transferred to assigned bed/room
+- Nursing staff begins monitoring
+
+STEP 7: TREATMENT STARTS
+- Doctor prescribes treatment plan
+- Medications and tests are initiated
+
+----------------------------------------
+ICU ADMISSION (SPECIAL CASE)
+----------------------------------------
+- Direct admission without waiting
+- Continuous monitoring
+- Life-support systems if needed
+- Restricted visitor access
+
+----------------------------------------
+IMPORTANT RULES
+----------------------------------------
+- Admission requires doctor approval (except emergency)
+- Emergency cases bypass normal waiting
+- ICU is prioritized for critical patients
+- Payment must be initiated before admission (except emergency)
+
+----------------------------------------
+DISCHARGE CONDITION
+----------------------------------------
+Patient can be discharged when:
+- Stable condition
+- Treatment completed
+- Doctor approval given
+
+----------------------------------------
+BOT RESPONSE LOGIC (IMPORTANT)
+----------------------------------------
+If user asks:
+- "How to get admitted?"
+→ Explain full process
+
+- "Do I need admission?"
+→ Suggest doctor consultation first
+
+- "Emergency admission?"
+→ Explain direct admission + ICU possibility

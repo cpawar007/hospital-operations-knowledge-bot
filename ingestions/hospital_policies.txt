@@ -1,0 +1,123 @@
+----------------------------------------
+HOSPITAL POLICIES & RULES
+----------------------------------------
+
+This document defines operational rules, patient policies, and hospital guidelines for Healing Touch Hospital.
+
+----------------------------------------
+1. GENERAL PATIENT RULES
+----------------------------------------
+- All patients must register at reception before consultation
+- Valid ID proof is required for registration
+- OPD tokens are mandatory for consultation
+- Patients must follow assigned appointment timings
+- Emergency cases are prioritized over scheduled patients
+
+----------------------------------------
+2. VISITING RULES (INPATIENT)
+----------------------------------------
+- Visiting hours:
+  - 4:00 PM to 6:00 PM (General Ward)
+  - ICU: Restricted (Only 10–15 minutes with permission)
+
+- Maximum 2 visitors per patient
+- Children under 12 not allowed in ICU
+- Silence must be maintained in wards
+- No food delivery to ICU patients
+
+----------------------------------------
+3. EMERGENCY RULES
+----------------------------------------
+- No appointment required for emergency cases
+- Patients are treated immediately based on severity
+- Billing is secondary in life-threatening cases
+- Ambulance service available 24/7
+- Family consent may be bypassed in critical cases
+
+----------------------------------------
+4. PAYMENT & BILLING RULES
+----------------------------------------
+- OPD consultation fees must be paid before visit
+- IPD charges are calculated daily
+- Surgery and ICU charges are separate
+- Insurance claims accepted (subject to approval)
+- Final bill is generated at discharge
+
+----------------------------------------
+5. APPOINTMENT RULES
+----------------------------------------
+- Appointments must be booked in advance
+- Late arrival beyond 15 minutes may lead to cancellation
+- Doctor availability is fixed per schedule
+- Rescheduling allowed once per appointment
+
+----------------------------------------
+6. MEDICATION RULES
+----------------------------------------
+- Medicines must be taken only as prescribed
+- Antibiotics cannot be sold without prescription
+- Pharmacy cannot change prescribed drugs
+- Dosage instructions must be strictly followed
+
+----------------------------------------
+7. DIAGNOSTIC RULES
+----------------------------------------
+- Tests require doctor recommendation
+- Reports are usually available within:
+  - Blood test: 6–12 hours
+  - Imaging: 24–48 hours
+- Reports must be reviewed by doctor before treatment changes
+
+----------------------------------------
+8. ADMISSION RULES
+----------------------------------------
+- Admission requires doctor recommendation
+- Bed allocation depends on availability and severity
+- Private rooms available at extra cost
+- Patient transfer between departments is allowed only with approval
+
+----------------------------------------
+9. ICU RULES
+----------------------------------------
+- ICU admission only for critical patients
+- Continuous monitoring is mandatory
+- Mobile phones not allowed inside ICU
+- Entry restricted to authorized staff only
+- Family updates provided periodically by doctor
+
+----------------------------------------
+10. DISCHARGE RULES
+----------------------------------------
+- Patient discharged only after doctor approval
+- Discharge summary is mandatory
+- Follow-up appointment may be scheduled
+- Pending bills must be cleared before exit
+
+----------------------------------------
+11. EMERGENCY EXCEPTIONS
+----------------------------------------
+- Rules may be bypassed in life-threatening situations
+- Doctor has final authority in emergency decisions
+- Consent may be waived in critical care cases
+
+----------------------------------------
+12. BOT RESPONSE LOGIC
+----------------------------------------
+If user asks:
+
+- "Can I visit anytime?"
+→ Explain OPD timing + emergency rule
+
+- "Can I skip payment?"
+→ Explain billing rules
+
+- "Can I visit ICU anytime?"
+→ Explain ICU restrictions
+
+- "Do I need appointment?"
+→ Explain appointment rules
+
+- "What happens if emergency?"
+→ Explain emergency override policy
+
+

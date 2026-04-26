@@ -1,0 +1,128 @@
+----------------------------------------
+EMERGENCY & CRITICAL CARE PROTOCOLS
+----------------------------------------
+
+Emergency services are available 24/7 and are designed to handle life-threatening conditions requiring immediate medical attention.
+
+----------------------------------------
+WHAT IS AN EMERGENCY
+----------------------------------------
+A medical emergency is any condition that:
+- Threatens life
+- Causes severe pain or distress
+- Requires immediate intervention
+
+----------------------------------------
+COMMON EMERGENCY CASES
+----------------------------------------
+- Chest pain / suspected heart attack
+- Severe breathing difficulty
+- Unconsciousness
+- Stroke symptoms (weakness, slurred speech)
+- Severe bleeding
+- Accidents / trauma
+- Seizures
+- High fever with complications
+- Severe allergic reactions
+
+----------------------------------------
+EMERGENCY FLOW (STEP-BY-STEP)
+----------------------------------------
+
+STEP 1: PATIENT ARRIVAL
+- Patient arrives via:
+  - Walk-in
+  - Ambulance
+
+STEP 2: TRIAGE PROCESS
+- Patient condition is assessed immediately
+- Priority levels assigned:
+
+  RED (Critical)
+  - Immediate life-saving treatment
+  - No waiting
+
+  YELLOW (Moderate)
+  - Urgent but stable
+  - Short waiting time
+
+  GREEN (Minor)
+  - Non-critical
+  - Can wait
+
+STEP 3: INITIAL STABILIZATION
+- Vital signs checked
+- Oxygen support if needed
+- IV fluids started
+- Emergency medications given
+
+STEP 4: DOCTOR INTERVENTION
+- Emergency doctor evaluates patient
+- Decision taken:
+  - Treat and discharge
+  - Admit patient
+  - Shift to ICU
+  - Refer to specialist
+
+STEP 5: DIAGNOSTIC SUPPORT
+- Immediate tests:
+  - Blood tests
+  - ECG
+  - X-ray / CT scan
+
+STEP 6: FURTHER ACTION
+- Surgery (if required)
+- ICU transfer (if critical)
+- Ward admission (if stable)
+
+----------------------------------------
+ICU PROTOCOL
+----------------------------------------
+- Continuous monitoring (24/7)
+- Life-support systems:
+  - Ventilator
+  - Cardiac monitor
+- Strict infection control
+- Limited visitor access
+
+----------------------------------------
+AMBULANCE SERVICE
+----------------------------------------
+- Available 24/7
+- Equipped with:
+  - Oxygen support
+  - Emergency medicines
+  - Trained staff
+
+----------------------------------------
+IMPORTANT RULES
+----------------------------------------
+- Emergency cases are treated FIRST
+- No prior appointment needed
+- Payment can be done AFTER stabilization
+- Critical patients are directly moved to ICU
+
+----------------------------------------
+FIRST RESPONSE ADVICE (BOT USE)
+----------------------------------------
+If user describes emergency symptoms:
+- Stay calm and reassure
+- Suggest immediate hospital visit
+- Recommend calling ambulance if severe
+- Do NOT delay response
+
+----------------------------------------
+BOT RESPONSE LOGIC
+----------------------------------------
+If user says:
+- "I have chest pain"
+→ Treat as emergency → suggest immediate hospital visit
+
+- "Someone fainted"
+→ Suggest emergency care + basic first aid
+
+- "Accident happened"
+→ Suggest ambulance immediately
+
+- "Breathing problem"
+→ Treat as urgent → recommend emergency department
