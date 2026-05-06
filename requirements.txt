@@ -1,9 +1,9 @@
-streamlit
 numpy
+scikit-learn
 joblib
-python-dotenv
+pandas
 langchain
 langchain-community
 faiss-cpu
-scikit-learn
 sentence-transformers
+python-dotenv
