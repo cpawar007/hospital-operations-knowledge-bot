@@ -13,13 +13,9 @@ load_dotenv()
 st.set_page_config(page_title="Hospital Operations Knowledge Bot")
 st.title("🏥 Hospital Operations Knowledge Bot")
 
-model = None
-le = None
-symptoms_list = None
-
-# model = joblib.load(...)
-# le = joblib.load(...)
-# symptoms_list = joblib.load(...)
+model = joblib.load("model_ingestion/disease_model.pkl")
+le = joblib.load("model_ingestion/label_encoder.pkl")
+symptoms_list = joblib.load("model_ingestion/symptoms.pkl")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
@@ -70,7 +66,7 @@ user_input = st.chat_input("Type your message...")
 
 if user_input:
 
-    # ✅ 1. SHOW USER MESSAGE IMMEDIATELY
+    
     st.session_state.messages.append({"role": "user", "content": user_input})
     st.session_state.chat_history.append(("User", user_input))
 
