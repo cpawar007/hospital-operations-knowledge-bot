@@ -13,9 +13,16 @@ load_dotenv()
 st.set_page_config(page_title="Hospital Operations Knowledge Bot")
 st.title("🏥 Hospital Operations Knowledge Bot")
 
-model = joblib.load("model_ingestion/disease_model.pkl")
-le = joblib.load("model_ingestion/label_encoder.pkl")
-symptoms_list = joblib.load("model_ingestion/symptoms.pkl")
+model = None
+le = None
+symptoms_list = None
+
+def load_ml():
+    global model, le, symptoms_list
+    if model is None:
+        model = joblib.load("model_ingestion/disease_model.pkl")
+        le = joblib.load("model_ingestion/label_encoder.pkl")
+        symptoms_list = joblib.load("model_ingestion/symptoms.pkl")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
